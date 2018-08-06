@@ -1,0 +1,10 @@
+2018-07-12 15:05:57,338 - D:/jiekou/ceshi/log/log_tet.py[line:12] - INFO: Start reading database
+2018-07-12 15:05:57,338 - D:/jiekou/ceshi/log/log_tet.py[line:16] - DEBUG: Records: {'john': 55, 'tom': 66}
+2018-07-12 15:05:57,338 - D:/jiekou/ceshi/log/log_tet.py[line:17] - INFO: Updating records ...
+2018-07-12 15:05:57,338 - D:/jiekou/ceshi/log/log_tet.py[line:20] - INFO: Finish updating records
+2018-07-12 15:05:57,338 - D:/jiekou/ceshi/log/log_tet.py[line:23] - INFO: Handling request hh
+2018-07-12 15:05:57,338 - D:/jiekou/ceshi/log/log_tet.py[line:27] - INFO: Return result: result
+2018-07-12 16:57:59,503 - D:/jiekou/ceshi/log/log_tet.py[line:13] - INFO: Start reading database
+2018-07-12 16:57:59,503 - D:/jiekou/ceshi/log/log_tet.py[line:16] - DEBUG: Records: {'john': 55, 'tom': 66}
+2018-07-12 16:57:59,503 - D:/jiekou/ceshi/log/log_tet.py[line:17] - INFO: Updating records ...
+2018-07-12 16:57:59,503 - D:/jiekou/ceshi/log/log_tet.py[line:19] - INFO: Finish updating records
